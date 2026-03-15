@@ -30,8 +30,8 @@ Train the model using the training data.
 Evaluate the model and plot predictions.
 
 ## Program
-### Name: SANJITH R
-### Register Number: 212223230191
+### Name: MUGIL RAJ S A
+### Register Number: 212223220062
 
 
 ```Python 
