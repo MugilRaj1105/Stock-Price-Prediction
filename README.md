@@ -30,8 +30,8 @@ Train the model using the training data.
 Evaluate the model and plot predictions.
 
 ## Program
-### Name: MUGIL RAJ S A
-### Register Number: 212223220062
+### Name: SANJITH R
+### Register Number: 212223230191
 
 
 ```Python 
@@ -74,11 +74,12 @@ for epoch in range(epochs):
 
 ### True Stock Price, Predicted Stock Price vs time
 
-<img width="715" height="414" alt="image" src="https://github.com/user-attachments/assets/00919673-b2bd-40c9-9bf4-f8a42165bcf4" />
+<img width="800" height="617" alt="image" src="https://github.com/user-attachments/assets/94540997-40a7-46e0-8594-4dcdd1eccdd6" />
 
 ### Predictions 
 
-<img width="845" height="527" alt="image" src="https://github.com/user-attachments/assets/db323823-79db-4de2-9b58-71fe969233d0" />
+<img width="1125" height="781" alt="image" src="https://github.com/user-attachments/assets/e4ef76e2-6493-4a6c-a764-a9c0fdcd2f80" />
+
 
 ## Result
 The RNN model successfully predicts future stock prices based on historical closing prices. The predicted prices closely follow the actual prices, demonstrating the model's ability to capture temporal patterns. The performance of the model is evaluated by comparing the predicted and actual prices through visual plots.
