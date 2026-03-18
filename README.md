@@ -81,5 +81,7 @@ for epoch in range(epochs):
 <img width="1125" height="781" alt="image" src="https://github.com/user-attachments/assets/e4ef76e2-6493-4a6c-a764-a9c0fdcd2f80" />
 
 
+
+
 ## Result
 The RNN model successfully predicts future stock prices based on historical closing prices. The predicted prices closely follow the actual prices, demonstrating the model's ability to capture temporal patterns. The performance of the model is evaluated by comparing the predicted and actual prices through visual plots.
